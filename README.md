@@ -6,3 +6,4 @@ Style - Contains Style Images
 Output - contains style transfer outputs
 Losses - COntains Loss excel sheets
 Neural Style Transfer.pptx - Presentation
+
