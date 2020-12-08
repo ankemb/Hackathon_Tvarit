@@ -1,1 +1,1 @@
-# Neural-Style-Transfer
+# Hackathon by Tvarit - Neural-Style-Transfer
